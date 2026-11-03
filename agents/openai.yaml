@@ -1,0 +1,6 @@
+interface:
+  display_name: "PDF to Markdown"
+  short_description: "Read papers through local Markdown and page indexes"
+  default_prompt: "Use $pdf-to-markdown to convert these papers locally, check extraction quality, and read the pages needed for my question."
+policy:
+  allow_implicit_invocation: true
